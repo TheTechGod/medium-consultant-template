@@ -1,4 +1,4 @@
-import { clientData } from '../data/config.ts';
+import { clientData } from '../data/config';
 
 export default function Home() {
   return (
